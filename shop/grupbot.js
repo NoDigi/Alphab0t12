@@ -2,8 +2,11 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *GROUP BOT Support*
-_https://chat.whatsapp.com/Jxe836o7w9L9EhaYPkyZdV
+1. *GROUP BOT¹*
+_ https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk
+
+2. *GROUP BOT²*
+_ https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB
 
 
 Jika ada link yang ke reset, silahkan hubungi
